@@ -10,4 +10,5 @@ CMD [ "redis-server" ]
 
 ## Run the dockerfile using terminal
 ## ...$ docker build .
-## ...$ docker build .
+## --OR:
+## ...$ docker build -t kaaoaa505/redis:latest .
